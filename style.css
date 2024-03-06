@@ -5,3 +5,8 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--branco); font-family: ‘Chakra Petch’, sans-serif;
     }
+    .titulo-principlal{
+        text-align: left;
+        width: 100%;
+        font-size: 32px;
+    }
