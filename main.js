@@ -44,3 +44,9 @@ function comecaCronometro(){
     setInterval(atualizaCronometro,1000);
 }
 comecaCronometro();
+if(tempoFinal>0){
+    return dias = 
+}else{
+    return"Prazofinalizado";
+}
+}
