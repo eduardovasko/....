@@ -88,9 +88,14 @@ body {
     color: var(--verde);
     text-transform: uppercase;
 }
-.contator{
-    font-size: 20px;
-    text-align: center;
+.contador{
+    -arquivoStyle.css
+    -verificar a classe 
+    .contador{
+        display:flex;
+        justify-content:center;
+        flex-wrap:wrap;
+    }
 }
 
 @media screen and (min-width: 768px) {
